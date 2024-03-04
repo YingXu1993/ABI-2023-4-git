@@ -1,0 +1,5 @@
+git_cheatsheet:
+git add file1 file2 ...
+git status
+git commit -m "Habe fertig!"
+git push
